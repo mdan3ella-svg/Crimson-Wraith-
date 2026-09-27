@@ -1,0 +1,426 @@
+{
+  "animations": [],
+  "meshes": [
+    {
+      "name": "Cube003",
+      "vertices": 55296,
+      "center": [
+        -19.24101535823607,
+        85.95349613172466,
+        -318.30505555251625
+      ],
+      "size": [
+        446.0974284399895,
+        106.83418259892593,
+        348.19180633549576
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "VENT",
+          "color": "cccccc",
+          "map": "base_color_texture"
+        }
+      ]
+    },
+    {
+      "name": "Cube008",
+      "vertices": 55296,
+      "center": [
+        -2.706269721725448,
+        28.390260433939154,
+        261.43306664122434
+      ],
+      "size": [
+        433.19972595826334,
+        56.83175957676595,
+        192.16202264905385
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        }
+      ]
+    },
+    {
+      "name": "Cube004",
+      "vertices": 76992,
+      "center": [
+        -0.9883947822308983,
+        33.47074113847744,
+        -141.56155657030772
+      ],
+      "size": [
+        233.4098607009364,
+        72.22940685875021,
+        74.2686600382496
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cube005",
+      "vertices": 108,
+      "center": [
+        -0.24967193603515625,
+        3.8088198972105642,
+        188.43846528686026
+      ],
+      "size": [
+        32.91398239135742,
+        12.905549247409011,
+        74.26861632391123
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        }
+      ]
+    },
+    {
+      "name": "Cube",
+      "vertices": 869232,
+      "center": [
+        -0.9883880615234375,
+        133.19521019357313,
+        116.32542908337962
+      ],
+      "size": [
+        452.7794361114502,
+        320.48104691994456,
+        1172.8356856137113
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "engine trim",
+          "color": "262626",
+          "map": "base_color_texture"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        },
+        {
+          "name": "screen",
+          "color": "010101"
+        },
+        {
+          "name": "engine light",
+          "color": "cccccc"
+        },
+        {
+          "name": "engine light 2",
+          "color": "cccccc"
+        },
+        {
+          "name": "engine light 3",
+          "color": "cccccc"
+        },
+        {
+          "name": "seat",
+          "color": "4905cc"
+        },
+        {
+          "name": "glass",
+          "color": "010101"
+        },
+        {
+          "name": "undercarrage",
+          "color": "cccccc",
+          "map": "base_color_texture"
+        },
+        {
+          "name": "VENT",
+          "color": "cccccc",
+          "map": "base_color_texture"
+        },
+        {
+          "name": "TRIM",
+          "color": "cc450f"
+        },
+        {
+          "name": "INT TRIM",
+          "color": "220b02"
+        },
+        {
+          "name": "SCREEN",
+          "color": "cccccc",
+          "map": "base_color_texture"
+        }
+      ]
+    },
+    {
+      "name": "Cylinder002",
+      "vertices": 15960,
+      "center": [
+        -0.22709945392529107,
+        75.30575249957303,
+        -275.9353202447149
+      ],
+      "size": [
+        257.95962486163955,
+        167.15284517315723,
+        244.29157734777678
+      ],
+      "materials": [
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cylinder004",
+      "vertices": 744,
+      "center": [
+        -0.9883916912312998,
+        30.833015441893846,
+        300.3304096105767
+      ],
+      "size": [
+        140.64529646678056,
+        20.34099460006204,
+        4.412191676433281
+      ],
+      "materials": [
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cylinder",
+      "vertices": 10200,
+      "center": [
+        -0.9883928138672147,
+        102.8361835443896,
+        -284.09077759034216
+      ],
+      "size": [
+        82.35610497990056,
+        66.4136711301245,
+        269.3508347157125
+      ],
+      "materials": [
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cube006",
+      "vertices": 76992,
+      "center": [
+        -2.6936362079151337,
+        134.79442675053946,
+        -292.058929885327
+      ],
+      "size": [
+        282.53778701012686,
+        106.4332179650113,
+        22.767901494207422
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cube007",
+      "vertices": 76992,
+      "center": [
+        -4.58860462460494,
+        126.83043071462208,
+        -363.10010183200166
+      ],
+      "size": [
+        305.1030086619402,
+        182.7657438415231,
+        188.24624954894006
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cube010",
+      "vertices": 76992,
+      "center": [
+        -3.522037180165043,
+        48.731012194043146,
+        268.08028432505955
+      ],
+      "size": [
+        411.04771424738965,
+        45.90902188522975,
+        219.45321591631364
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Torus003",
+      "vertices": 10368,
+      "center": [
+        0,
+        9.994959957202779,
+        188.15371631502126
+      ],
+      "size": [
+        17.138928174972534,
+        12.340031568614565,
+        17.13893018541819
+      ],
+      "materials": [
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        }
+      ]
+    },
+    {
+      "name": "Cylinder003",
+      "vertices": 372,
+      "center": [
+        0,
+        9.495152473449707,
+        188.15371704101562
+      ],
+      "size": [
+        7.920360565185547,
+        20.599585869858018,
+        7.9203639212837516
+      ],
+      "materials": [
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Cube009",
+      "vertices": 76992,
+      "center": [
+        -0.9883747010098887,
+        51.86363579917129,
+        239.9417450170917
+      ],
+      "size": [
+        394.61759279343823,
+        46.19521346695274,
+        22.839229980332505
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "ENGINE TRIM 1",
+          "color": "030303"
+        },
+        {
+          "name": "STEEL TRIM",
+          "color": "8c8c8c"
+        }
+      ]
+    },
+    {
+      "name": "Torus004",
+      "vertices": 21480,
+      "center": [
+        -0.9883798115915852,
+        17.881703199145342,
+        301.07992113827146
+      ],
+      "size": [
+        223.5479558004008,
+        8.729954592670072,
+        89.2059234733266
+      ],
+      "materials": [
+        {
+          "name": "BASE MATERIAL 1",
+          "color": "890001"
+        },
+        {
+          "name": "rubber",
+          "color": "030303"
+        },
+        {
+          "name": "bmat",
+          "color": "101208"
+        },
+        {
+          "name": "steel",
+          "color": "3d3d3d"
+        }
+      ]
+    }
+  ]
+}
